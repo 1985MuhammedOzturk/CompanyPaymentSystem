@@ -1,0 +1,15 @@
+Classes for Lab5
+
+	MillersTest (Driver)
+
+	Millers
+
+	Consultants
+
+	Employees
+
+	Supervisors
+
+	paySchedule : It is the class to calculate the date for the payments for each categories of millers.
+
+
